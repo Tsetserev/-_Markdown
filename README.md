@@ -17,6 +17,8 @@
 
 ![Логотип Нетологии](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrR3w4SeQi-ALMNxAs2dGqH-ntNe6dCX06W3N8Bo21w&s)
 
+Картинка-ссылка
+
 [![Логотип Нетологии](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrR3w4SeQi-ALMNxAs2dGqH-ntNe6dCX06W3N8Bo21w&s)](https://netology.ru)
 
 ---
